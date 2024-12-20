@@ -33,33 +33,7 @@ This repository serves as a comprehensive collection of projects related to comp
 [More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/Stereo%20Vision%20and%20Depth%20Estimation)
 
 ---
-
-### **3. AR Tag Detection and Tracking**
-- **Objective**: Detect and track AR tags in video sequences while superimposing images and projecting 3D objects.
-- **Key Features**:
-  - Techniques: Homography, FFT, Harris Corner Detection.
-  - 3D Cube Projection: Overlay virtual 3D cubes onto AR tags.
-  - Tools: Python, OpenCV.
-- **Results**:
-  - Successfully decoded and replaced AR tags in real-time video.
-  - 
-[More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/AR%20Tag%20Detection%20and%20Tracking)
-
----
-
-### **4. Image Processing and Camera Calibration**
-- **Objective**: Solve image processing problems like coin extraction, image stitching, camera calibration, and K-means segmentation.
-- **Key Features**:
-  - Camera calibration using intrinsic matrix estimation.
-  - Morphological operations for object segmentation.
-  - Feature matching for panorama stitching.
-- **Results**:
-  - Accurate calibration, segmentation, and stitched images.
-
-[More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/Image%20Processing%20and%20Camera%20Calibration)
-
-
-### **5. Lane Detection and Turn Prediction**
+### **3. Lane Detection and Turn Prediction**
 - **Objective**: Detect lanes and predict road turns based on video sequences.
 - **Key Features**:
   - Histogram equalization for contrast enhancement.
@@ -70,6 +44,34 @@ This repository serves as a comprehensive collection of projects related to comp
 
 [More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/Lane%20Detection)
 
+
+---
+
+
+
+### **4. AR Tag Detection and Tracking**
+- **Objective**: Detect and track AR tags in video sequences while superimposing images and projecting 3D objects.
+- **Key Features**:
+  - Techniques: Homography, FFT, Harris Corner Detection.
+  - 3D Cube Projection: Overlay virtual 3D cubes onto AR tags.
+  - Tools: Python, OpenCV.
+- **Results**:
+  - Successfully decoded and replaced AR tags in real-time video.
+  - 
+[More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/AR%20Tag%20Detection%20and%20Tracking)
+---
+### **5. Image Processing and Camera Calibration**
+- **Objective**: Solve image processing problems like coin extraction, image stitching, camera calibration, and K-means segmentation.
+- **Key Features**:
+  - Camera calibration using intrinsic matrix estimation.
+  - Morphological operations for object segmentation.
+  - Feature matching for panorama stitching.
+- **Results**:
+  - Accurate calibration, segmentation, and stitched images.
+
+[More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/Image%20Processing%20and%20Camera%20Calibration)
+
+---
 
 ## **How to Use**
 1. **Install Required Dependencies**:
