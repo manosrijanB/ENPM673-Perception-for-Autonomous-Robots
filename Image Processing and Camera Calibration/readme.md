@@ -20,8 +20,8 @@ This repository contains solutions for four image processing tasks completed as 
 - Successfully separated overlapping coins and counted them.
 - Output:
   <p align="center">
-    <img src="Image Processing and Camera Calibration/output/highlighted.png" width="50%">
-    <img src="Image Processing and Camera Calibration/output/counted.png" width="50%">
+    <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Image%20Processing%20and%20Camera%20Calibration/output/highlighted.png" width="50%">
+    <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Image%20Processing%20and%20Camera%20Calibration/output/counted.png" width="50%">
   </p>
 
 ---
@@ -44,7 +44,7 @@ This repository contains solutions for four image processing tasks completed as 
 - Accurate stitching with seamless blending of images.
 - Output:
   <p align="center">
-    <img src="Image Processing and Camera Calibration/output/stitched_without_noise.png" width="50%">
+    <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Image%20Processing%20and%20Camera%20Calibration/output/stiched%20without%20noise.png" width="50%">
   </p>
 
 ---
@@ -65,7 +65,7 @@ This repository contains solutions for four image processing tasks completed as 
 - Successfully computed the intrinsic matrix using only NumPy.
 - Output:
   <p align="center">
-    <img src="Image Processing and Camera Calibration/output/intrinsic_camera_matrix.png" width="50%">
+    <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Image%20Processing%20and%20Camera%20Calibration/output/intrinsic%20camera%20matrix.png" width="50%">
   </p>
 
 ---
@@ -89,7 +89,7 @@ This repository contains solutions for four image processing tasks completed as 
 - Segmented the image into distinct regions based on color similarity.
 - Output:
   <p align="center">
-    <img src="Image Processing and Camera Calibration/Figure_1.png" width="50%">
+    <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Image%20Processing%20and%20Camera%20Calibration/Figure_1.png" width="50%">
   </p>
 
 ---
