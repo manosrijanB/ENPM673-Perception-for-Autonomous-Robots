@@ -28,7 +28,8 @@ This repository serves as a comprehensive collection of projects related to comp
 - **Results**:
   - Accurate disparity and depth maps produced for stereo images.
 
-[Explore Detailed ReadMe](Stereo_Vision_Depth_Estimation/README.md)
+
+[Explore Detailed ReadMe](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Optical%20flow%20based%20motion%20segmentation/README.md)
 
 ---
 
