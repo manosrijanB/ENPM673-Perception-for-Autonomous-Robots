@@ -30,11 +30,11 @@ Visualize the epipolar lines on both the original and rectified images.
 ### Correspondence Matching:
 
 <p align="center">
-  <img src="Stereo Vision System\unrectified epipolar.pn" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Stereo%20Vision%20and%20Depth%20Estimation/unrectified%20epipolar.png" width="50%">
 </p>
 
 <p align="center">
-  <img src="Stereo Vision System\rectified epiroal lines.png" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Stereo%20Vision%20and%20Depth%20Estimation/rectified%20epiroal%20lines.png" width="50%">
 </p>
 ![unrectified epipolar](Stereo Vision System\unrectified epipolar.png)
 ![rectified epiroal lines](Stereo Vision System\rectified epiroal lines.png)
@@ -44,14 +44,13 @@ Use block matching techniques (SSD) to find corresponding points between the rec
 Calculate the disparity map and rescale it for visualization.
 
 <p align="center">
-  <img src="Stereo Vision System\disparity(grey).png" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Stereo%20Vision%20and%20Depth%20Estimation/disparity(grey).png" width="50%">
 </p>
 
 <p align="center">
-  <img src="Stereo Vision System\disparity (hot).png" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Stereo%20Vision%20and%20Depth%20Estimation/disparity%20(hot).png" width="50%">
 </p>
-![disparity(grey)](Stereo Vision System\disparity(grey).png)
-![disparity (hot)](Stereo Vision System\disparity (hot).png)
+
 
 ## Depth Image Computation
 
@@ -61,11 +60,11 @@ Use the disparity information to compute the depth map for each pixel in the ima
 Visualize the depth map as both grayscale and color images.
 
 <p align="center">
-  <img src="Stereo Vision System\depth map(gray scale).png" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Stereo%20Vision%20and%20Depth%20Estimation/depth%20map(gray%20scale).png" width="50%">
 </p>
 
 <p align="center">
-  <img src="Stereo Vision System\depth map (hot).png" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Stereo%20Vision%20and%20Depth%20Estimation/depth%20map%20(hot).png" width="50%">
 </p>
 
 ## How to Run the Project:
