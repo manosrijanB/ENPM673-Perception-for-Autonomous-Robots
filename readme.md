@@ -15,7 +15,8 @@ This repository serves as a comprehensive collection of projects related to comp
 - **Results**:
   - Short video segments successfully segmented into static and dynamic objects.
 
-[Explore Detailed ReadMe](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Optical%20flow%20based%20motion%20segmentation/README.md)
+[More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/Optical%20flow%20based%20motion%20segmentation)
+
 
 ---
 
@@ -29,7 +30,7 @@ This repository serves as a comprehensive collection of projects related to comp
   - Accurate disparity and depth maps produced for stereo images.
 
 
-[Explore Detailed ReadMe](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Stereo%20Vision%20and%20Depth%20Estimation/readme.md)
+[More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/Stereo%20Vision%20and%20Depth%20Estimation)
 
 ---
 
@@ -41,8 +42,8 @@ This repository serves as a comprehensive collection of projects related to comp
   - Tools: Python, OpenCV.
 - **Results**:
   - Successfully decoded and replaced AR tags in real-time video.
-
-[Explore Detailed ReadMe](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/AR%20Tag%20Detection%20and%20Tracking/readme.md)
+  - 
+[More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/AR%20Tag%20Detection%20and%20Tracking)
 
 ---
 
@@ -55,9 +56,8 @@ This repository serves as a comprehensive collection of projects related to comp
 - **Results**:
   - Accurate calibration, segmentation, and stitched images.
 
-[Explore Detailed ReadMe]([Image_Processing_Calibration/README.md](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Image%20Processing%20and%20Camera%20Calibration/readme.md))
+[More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/Image%20Processing%20and%20Camera%20Calibration)
 
----
 
 ### **5. Lane Detection and Turn Prediction**
 - **Objective**: Detect lanes and predict road turns based on video sequences.
@@ -68,8 +68,7 @@ This repository serves as a comprehensive collection of projects related to comp
 - **Results**:
   - Reliable detection and prediction under varying road conditions.
 
-[Explore Detailed ReadMe](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Lane%20Detection/Readme.md)
-
+[More Details](https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/tree/main/Lane%20Detection)
 
 
 ## **How to Use**
