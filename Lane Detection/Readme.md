@@ -23,7 +23,7 @@ This project consists of three main tasks: **Histogram Equalization**, **Straigh
 - AHE further highlighted details in darker regions, revealing more information about objects like trees, vehicles, and pedestrians.
 
 <p align="center">
-  <img src="Lane Detection\output_videos\adaptiveequilized.gif" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Lane%20Detection/output_videos/adaptiveequilized.gif" width="50%">
 </p>
 ---
 
@@ -50,7 +50,7 @@ This project consists of three main tasks: **Histogram Equalization**, **Straigh
 - The algorithm can generalize to horizontally flipped videos due to its reliance on slope and position.
 
 <p align="center">
-  <img src="Lane Detection\output_videos\Lane Detection.gif" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Lane%20Detection/output_videos/Lane%20Detection.gif" width="50%">
 </p>
 ---
 
@@ -79,7 +79,7 @@ This project consists of three main tasks: **Histogram Equalization**, **Straigh
 - Successfully handled edge cases, such as temporary occlusion or lane loss.
 
 <p align="center">
-  <img src="Lane Detection\output_videos\predict_turn.gif" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Lane%20Detection/output_videos/predict_turn.gif" width="50%">
 </p>
 ---
 
