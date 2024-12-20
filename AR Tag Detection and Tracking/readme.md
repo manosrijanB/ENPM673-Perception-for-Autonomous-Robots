@@ -7,7 +7,7 @@ This repository contains the implementation for detecting and tracking Augmented
 
 ---
 <p align="center">
-  <img src="AR Tag Detection and Tracking\3D projection1.gif" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/AR%20Tag%20Detection%20and%20Tracking/3D%20projection1.gif" width="50%">
 </p>
 
 ## **Project Overview**
