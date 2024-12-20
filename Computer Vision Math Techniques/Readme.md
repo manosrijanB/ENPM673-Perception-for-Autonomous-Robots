@@ -15,15 +15,16 @@ For more detailed  solutions, please refer to the [mbattula_hw1.pdf](https://git
 
 **Solution:**  
 - **FoV Calculation:** Using the formula:
-```
-  \[
+``` math
+  [
   \phi = 2 \times \tan^{-1}\left(\frac{d}{2f}\right)
-  \]
+  ]
 ```
   where \( f \) is the focal length and \( d \) is the sensor dimension.
-- **Object Size:** With the given parameters, the height of the object in the image can be computed using the relation \( \frac{h_0}{d_0} = \frac{h_f}{f} \).
-
-
+- **Object Size:** With the given parameters, the height of the object in the image can be computed using the relation
+ ``` math
+  ( frac{h_0}{d_0} = \frac{h_f}{f} ).
+``` 
 
 ---
 
@@ -73,25 +74,25 @@ For more detailed  solutions, please refer to the [mbattula_hw1.pdf](https://git
 ### Standard Least Squares Curve Fitting
 Perfect Data  |  Result |
 :-------------------------:|:-------------------------:
-<img src= "Computer Vision Math Techniques\output\without noise.png"> | <img src="Computer Vision Math Techniques\output\fitted without noise.png" width="100%"> 
+<img src= "https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/without%20noise.png"> | <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/fitted%20without%20noise.png" width="100%"> 
 
 Noisy Data   |  Result |
 :-------------------------:|:-------------------------:
-<img src= "Computer Vision Math Techniques\output\with noise.png"> | <img src="Computer Vision Math Techniques\output\fitted with noise.png" width="100%"> 
+<img src= "https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/with%20noise.png"> | <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/fitted%20with%20noise.png" width="100%"> 
 
 ### LS, TLS, RANSAC, Covariance
 Least Squares  |  Total Least Squares | Covariance |
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src= "Computer Vision Math Techniques\output\lls.png"> | <img src="Computer Vision Math Techniques\output\TLS.png"> | <img src="Computer Vision Math Techniques\output\covariance.png" width="100%"> 
+<img src= "https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/lls.png"> | <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/TLS.png"> | <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/covariance.png" width="100%"> 
 
 <p align="center">
-  <img src="Computer Vision Math Techniques\output\ransac.png" width="50%">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/ransac.png" width="50%">
 </p>
 
 ### S, U, Vt Matrices (SVD)
 S | U | Vt |
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src= "Computer Vision Math Techniques\output\s matrix.png"> | <img src="Computer Vision Math Techniques\output\u matrix.png"> | <img src="Computer Vision Math Techniques\output\v matrix.png" width="100%"> 
+<img src= "https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/s%20matrix.png"> | <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/u%20matrix.png"> | <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Computer%20Vision%20Math%20Techniques/output/v%20matrix.png" width="100%"> 
 
 
 ---
