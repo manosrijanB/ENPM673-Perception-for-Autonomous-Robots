@@ -1,6 +1,22 @@
+
 # **Motion Segmentation Using Optical Flow**
 ## **Introduction**:
 This project focuses on leveraging RAFT (Recurrent All-Pairs Field Transforms), a state-of-the-art optical flow algorithm, to perform motion segmentation. Optical flow is utilized to differentiate between static and moving objects within video sequences. Our motion segmentation approach is inspired by the probabilistic model proposed in the paper "It’s Moving!" by Bideau et al. The KITTI MOTS (Multi-Object Tracking and Segmentation) dataset provides ground truth for evaluating segmentation accuracy, ensuring robust validation.
+
+### Video Results:
+<p align="center">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Optical%20flow%20based%20motion%20segmentation/results/video1/video1.gif" width="50%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Optical%20flow%20based%20motion%20segmentation/results/video2/traffic.gif" width="50%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/manosrijanB/ENPM673-Perception-for-Autonomous-Robots/blob/main/Optical%20flow%20based%20motion%20segmentation/results/video3/video3.gif" width="50%">
+</p>
+
+---
 
 ## **Requirements**
 
@@ -112,18 +128,6 @@ Motion priors are propagated from previous frames using Gaussian smoothing and r
 ### Results:
 Despite these challenges, our approach demonstrated effective segmentation for short-duration videos. The outputs showcase successful differentiation between static and dynamic objects. Results can be viewed in the results folder or the accompanying video files:
 
-### Video Results:
-<p align="center">
-  <img src="Optical flow based motion segmentation\results\video1\video1.gif" width="50%">
-</p>
 
-<p align="center">
-  <img src="Optical flow based motion segmentation\results\video2\traffic.gif" width="50%">
-</p>
-
-<p align="center">
-  <img src="Optical flow based motion segmentation\results\video3\video3.gif" width="50%">
-</p>
----
 
 
